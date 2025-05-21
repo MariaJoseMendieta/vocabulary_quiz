@@ -10,6 +10,14 @@ La aplicación presenta una serie de afirmaciones en inglés relacionadas con el
 
 ---
 
+## 👁 Vista App
+<p align="center">
+  <img src="app.png" width="200"/>
+  <img src="advertencia.png" width="200"/>
+</p>
+
+---
+
 ## ⚙️ Funcionalidades principales
 
 - Interfaz interactiva con botones True/False.
